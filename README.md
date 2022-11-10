@@ -30,3 +30,15 @@ Setup triggering - for now it will be all pages
 <p>
 URl : https://chrome.google.com/webstore/detail/tag-assistant-companion/jmekfmbnaedfebfnmakmokmlfpblbfdm/related?hl=en
 </p>
+
+## Clarifying that GTM and GA4 are connected
+<p>
+In GTM - Click preview and enter in the URL that you set up with GTM tags<br />
+When it loads, you will see a popup that will confirm if it's set up correctly<br />
+In the tag manager, you will also see that is connected and a new workspace is added - under
+</p>
+
+## Viewing information on GA4
+<p>
+Once you have confirmed that you have set everything up correctly, go to your Analytics page. Under configure > DebugView > you will be able to see lots of information like session_id , page_location, page_referer, title, source etc.
+</p>
