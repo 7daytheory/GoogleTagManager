@@ -45,5 +45,8 @@ Once you have confirmed that you have set everything up correctly, go to your An
 
 ## Versions and/or making updates live
 <p>
-Once you have tested everything using publish and have found the tags are working as expected. Click the "Submit" button and <strong>Label</strong> your update. Once completed you will see the new live version in the versions tag of the tag manager.
+Once you have tested everything using publish and have found the tags are working as expected. Click the "Submit" button and <strong>Label</strong> your update. Once completed you will see the new live version in the versions tag of the tag manager.<br />
+<italic>
+You have published and there is an error (oh no!) : You can go to the version tab and go back to a version that you know was working properly. Click on that version and click publish - that version will now be live. * That's why labelling is so important!
+</italic>
 </p>
