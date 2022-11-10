@@ -1,12 +1,12 @@
 {
-  "name": "googletagmanager",
+  "name": "gtm",
   "version": "1.0.0",
   "description": "",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
+  "repository":
     "type": "git",
     "url": "git+https://github.com/7daytheory/GoogleTagManager.git"
   },
