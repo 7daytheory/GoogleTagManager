@@ -1,6 +1,6 @@
 # Google Tag Manager
 ## Setting up Google Tag Manager with a file
-<h3>Termninology<h3><br />
+<h3>Termninology</h3><br />
 <strong>3 Main components: Tags, Triggers and Variables</strong> <br />
 <p>Tag: Tracking code implemented on the site (ex: Event tag, Google ads conversion code, google analytics page view etc<br />
 Triggers: Conditions when you want your tags to fire(ex: User signing up for newsletter. page view, btn click etc)<br />
@@ -40,5 +40,10 @@ In the tag manager, you will also see that is connected and a new workspace is a
 
 ## Viewing information on GA4
 <p>
-Once you have confirmed that you have set everything up correctly, go to your Analytics page. Under configure > DebugView > you will be able to see lots of information like session_id , page_location, page_referer, title, source etc.
+Once you have confirmed that you have set everything up correctly, go to your Analytics page. Under configure > DebugView > you will be able to see lots of information like session_id , page_location, page_referer, scroll, title etc.
+</p>
+
+## Versions and/or making updates live
+<p>
+Once you have tested everything using publish and have found the tags are working as expected. Click the "Submit" button and <strong>Label</strong> your update. Once completed you will see the new live version in the versions tag of the tag manager.
 </p>
