@@ -26,3 +26,7 @@ Create a new tag with Google Tag Manager. Lots of tag options including 3rd part
 Enter your measurement ID <br />
 Setup triggering - for now it will be all pages
 </p>
+<h3>Google Chrome - Tag Assistant Companion</h3>
+<p>
+URl : https://chrome.google.com/webstore/detail/tag-assistant-companion/jmekfmbnaedfebfnmakmokmlfpblbfdm/related?hl=en
+</p>
