@@ -15,6 +15,14 @@ Variable - Fire your tag on page view, or specific page view - variable<br /></p
 <p><bold>Tags</bold> are the form and the <strong>Trigger</strong> gets fired when it's completed is 'triggered' once completed on the Thank you page<br />
 <strong>Variable</strong> can be send from the tag to the trigger so it can receive a value. Perhaps a cost so it can show that value on the thank you page</p>
 
-
-
-
+## Setting up Google Tag Manager / Google analytics
+<p>
+Create your Tag Manager account as well as a Google Analytics accounts. <br />
+Create a data stream in Google Analytics and fill out the prompted form <br />
+<bold>
+Make sure to save the Measurement ID - as it will be used with GTM
+</bold><br />
+Create a new tag with Google Tag Manager. Lots of tag options including 3rd party tags but in this example I will be using G4A Config<br />
+Enter your measurement ID <br />
+Setup triggering - for now it will be all pages
+</p>
